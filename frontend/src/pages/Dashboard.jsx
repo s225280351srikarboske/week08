@@ -198,9 +198,9 @@ const Dashboard = () => {
           Dashboard
         </Typography>
 
-        <Typography color="text.secondary">
-          Welcome to KoalaTech University
-        </Typography>
+       <Typography color="text.secondary">
+  Welcome to KoalaTech University - Continuous Deployment 9.3C
+</Typography>
       </Box>
 
       <Grid container spacing={3}>
